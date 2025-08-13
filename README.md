@@ -92,3 +92,7 @@ How to debug common issues like "ModuleNotFoundError" and import path errors.
 
 This project improved my problem-solving skills, Flask development experience, and AI integration knowledge.
 It also gave me confidence in creating real-world, user-facing applications that can have a direct positive impact on job seekers.
+
+
+
+live link :https://final-project-git-main-sidra-nazs-projects.vercel.app
